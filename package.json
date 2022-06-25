@@ -1,7 +1,7 @@
 {
   "name": "bank2b-front-end",
   "private": true,
-  "homepage": "",
+  "homepage": "https://heenriquecds.github.io/fiap_fintech/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
